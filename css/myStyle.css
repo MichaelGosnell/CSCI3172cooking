@@ -1,0 +1,268 @@
+ @media screen and (min-width: 768px){
+  .m-2.head {
+      margin: 0 !important;
+      width: 100%;
+      margin-bottom: 20px !important;
+      position: fixed;
+      z-index: 1000;
+  }
+
+  #headerImage {
+      padding-top: 176px !important;
+  }
+
+  .nav-link {
+      color: black !important;
+  }
+
+  #middle, #middle_1{
+    padding-top: 156px !important;
+  }
+
+  [id="middle_1\ profile"] {
+    padding-top: 156px !important;
+  }
+
+  [id="middle_1\ recipe"] {
+    padding-top: 156px !important;
+  }
+
+  .container {
+    padding-top: 156px;
+  }
+
+  .navbar-toggler-icon {
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#8e8e8e' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E") !important;
+  }
+
+  .navbar-toggler {
+      border: none;
+  }
+
+  .navbar-brand {
+      padding: 0;
+  }
+
+  .navbar-brand {
+      margin-right: 5rem;
+  }
+
+  .nav-link {
+      text-align: center;
+  }
+
+  .navbar-nav {
+      font-family:Didot, serif;
+      padding-left: 6rem;
+  }
+
+  .nav-item.mx-5.active {
+      margin-left: 1rem !important;
+      margin-right: 1rem !important;
+  }
+
+  .navbar.navbar-expand-md.navbar-dark.bg-success.rounded {
+      background: white !important;
+      border-bottom: 1.3px solid rgba(0, 0, 0, .2);
+      border-radius: 0px !important;
+  }
+
+  .bottom_nav li {
+      list-style-type: none;
+      padding: 14px 25px;
+  }
+
+  .bottom_nav_title {
+      font-size: 1.5em;
+      color: #black;
+      text-decoration: none;
+  }
+
+  .bottom_nav_title:hover {
+      text-decoration: none;
+  }
+
+  .bottom_nav_link {
+      color: #8e8e8e;
+      font-size: 1em;
+      text-decoration: none;
+  }
+
+  .bottom_nav_link:hover {
+      text-decoration: none;
+  }
+
+  .nav-link.text-white.active {
+      color: #8e8e8e !important;
+  }
+
+  .footer.m-2.rounded.bg-success.p-4 {
+      background: white !important;
+  }
+
+  .col-md-4.p-3.\31  {
+      font-family: sans-serif;
+      font-weight: 100;
+      border-right: 1px solid rgba(0, 0, 0, .1);
+  }
+
+  .col-md-4.p-3.\32  {
+      font-family: sans-serif;
+      font-weight: 100;
+      border-right: 1px solid rgba(0, 0, 0, .1);
+  }
+
+  .col-md-4.p-3.\33  {
+      font-family: sans-serif;
+      font-weight: 100;
+  }
+
+  .nav.justify-content-end {
+      font-family: Georgia, serif;
+      font-size: 0.75rem;
+  }
+
+  .copyright {
+      color: #8e8e8e;
+      font-family:Georgia, serif;
+      font-size: 0.75rem;
+      margin-top: 1rem;
+      text-align: center;
+  }
+}
+
+
+
+
+
+ @media screen and (max-width: 767px){
+      .m-2.head {
+      margin: 0 !important;
+      width: 100%;
+      margin-bottom: 20px !important;
+      position: fixed;
+      z-index: 1000;
+  }
+
+  #headerImage {
+      padding-top: 176px !important;
+  }
+
+  .nav-link {
+      color: black !important;
+  }
+
+  .navbar-toggler-icon {
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#8e8e8e' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E") !important;
+  }
+
+  .navbar-toggler {
+      border: none;
+  }
+
+  .navbar-brand {
+      padding: 0;
+  }
+
+  .navbar-brand {
+      margin-right: 40%;
+  }
+
+  .nav-link {
+      text-align: center;
+  }
+
+  .navbar-nav {
+      font-family:Didot, serif;
+  }
+
+  .nav-item.mx-5.active {
+      margin-left: 1rem !important;
+      margin-right: 1rem !important;
+  }
+
+  .navbar.navbar-expand-md.navbar-dark.bg-success.rounded {
+      background: white !important;
+      border-bottom: 1.3px solid rgba(0, 0, 0, .2);
+      border-radius: 0px !important;
+  }
+
+  .bottom_nav li {
+      list-style-type: none;
+      padding: 14px 25px;
+  }
+
+  .bottom_nav_title {
+      font-size: 1.5em;
+      color: #black;
+      text-decoration: none;
+  }
+
+  #middle, #middle_1{
+    padding-top: 156px !important;
+  }
+
+  [id="middle_1\ profile"] {
+    padding-top: 156px !important;
+  }
+
+  [id="middle_1\ recipe"] {
+    padding-top: 156px !important;
+  }
+
+  .container {
+    padding-top: 156px;
+  }
+
+  .bottom_nav_title:hover {
+      text-decoration: none;
+  }
+
+  .bottom_nav_link {
+      color: #8e8e8e;
+      font-size: 1em;
+      text-decoration: none;
+  }
+
+  .bottom_nav_link:hover {
+      text-decoration: none;
+  }
+
+  .nav-link.text-white.active {
+      color: #8e8e8e !important;
+  }
+
+  .footer.m-2.rounded.bg-success.p-4 {
+      background: white !important;
+  }
+
+  .col-md-4.p-3.\31  {
+      font-family: sans-serif;
+      font-weight: 100;
+  }
+
+  .col-md-4.p-3.\32  {
+      font-family: sans-serif;
+      font-weight: 100;
+  }
+
+  .col-md-4.p-3.\33  {
+      font-family: sans-serif;
+      font-weight: 100;
+  }
+
+  .nav.justify-content-end {
+      font-family: Georgia, serif;
+      font-size: 0.75rem;
+  }
+
+  .copyright {
+      color: #8e8e8e;
+      font-family:Georgia, serif;
+      font-size: 0.75rem;
+      margin-top: 1rem;
+      text-align: center;
+  }
+ }
+
+
